@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_NEXT</name>
+   <tag></tag>
+   <elementGuidId>b87c7956-97b1-498e-a66f-fa9d7c4e24ce</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>next-button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NEXT</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zplusframe&quot;)/div[@class=&quot;frame-body-wrapper&quot;]/div[@class=&quot;frame-body-limited js-frame-body col-wrapper&quot;]/div[@class=&quot;col body-col&quot;]/div[@class=&quot;who-viewed-slideshow who-viewed-container content-container&quot;]/div[@class=&quot;mod-body&quot;]/div[@class=&quot;views-slideshow-container&quot;]/ul[@class=&quot;pagination-menu&quot;]/li[2]/span[@class=&quot;next-button&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

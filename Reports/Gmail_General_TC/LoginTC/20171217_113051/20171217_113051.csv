@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+LoginTC,,,2017-12-17 11:30:53,2017-12-17 11:30:54,1.327s,PASSED
+,,,,,,
+Test Cases/Login_Logout/Login,,,2017-12-17 11:30:54,2017-12-17 11:30:54,0.772s,PASSED
+Statement - return null,,,2017-12-17 11:30:54,2017-12-17 11:30:54,0.002s,PASSED

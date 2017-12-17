@@ -4,17 +4,17 @@
    <tag></tag>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'nelson.ayod@gmail.com'</initValue>
+      <initValue>'nayod@boxmail.veridone.net'</initValue>
       <name>GLOB_Username</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Jackson5001!'</initValue>
+      <initValue>'Fuelsaga01!'</initValue>
       <name>GLOB_Password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://accounts.google.com/signin/v2/identifier?service=mail&amp;passive=true&amp;rm=false&amp;continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&amp;ss=1&amp;scc=1&amp;ltmpl=default&amp;ltmplcache=2&amp;emr=1&amp;osid=1&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin'</initValue>
+      <initValue>'https://boxmail.veridone.net:8080/roundcube/'</initValue>
       <name>GLOB_URL</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
