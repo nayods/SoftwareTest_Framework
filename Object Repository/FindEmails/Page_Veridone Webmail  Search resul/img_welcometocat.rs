@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_welcometocat</name>
+   <tag></tag>
+   <elementGuidId>3e7f60aa-50b2-4da9-9eb4-0fc64714aa00</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>welcometocat</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assets-cdn.github.com/images/email/welcome-email/welcometocat.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>350</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>welcometocat</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;message-htmlpart1&quot;)/div[@class=&quot;rcmBody&quot;]/table[@class=&quot;body&quot;]/tbody[1]/tr[1]/td[@class=&quot;center&quot;]/center[1]/table[@class=&quot;container&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;row&quot;]/tbody[1]/tr[1]/td[@class=&quot;wrapper last&quot;]/div[@class=&quot;panel&quot;]/table[@class=&quot;twelve columns&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;content&quot;]/img[@class=&quot;welcometocat&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/FindEmails/Page_Veridone Webmail  Search resul/iframe_messagecontframe</value>
+   </webElementProperties>
+</WebElementEntity>

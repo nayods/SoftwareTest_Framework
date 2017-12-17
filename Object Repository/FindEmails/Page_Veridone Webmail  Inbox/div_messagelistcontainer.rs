@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_gb_ab gbii</name>
+   <name>div_messagelistcontainer</name>
    <tag></tag>
-   <elementGuidId>bd00c6db-e696-4a0b-bb7e-70d890b0135c</elementGuidId>
+   <elementGuidId>7a36d1aa-49d1-4961-8ea6-d4ae27fd5bd1</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,20 +11,34 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>messagelistcontainer</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>gb_ab gbii</value>
+      <value>boxlistcontent</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;gb&quot;)/div[@class=&quot;gb_Ef gb_Dg&quot;]/div[@class=&quot;gb_kb gb_Dg gb_R gb_Cg gb_ea gb_T&quot;]/div[@class=&quot;gb_Ac gb_Dg gb_R&quot;]/div[@class=&quot;gb_hb gb_5c gb_Dg gb_R&quot;]/div[@class=&quot;gb_Mc gb_jb gb_Dg gb_R&quot;]/a[@class=&quot;gb_b gb_fb gb_R&quot;]/span[@class=&quot;gb_ab gbii&quot;]</value>
+      <value>id(&quot;messagelistcontainer&quot;)</value>
    </webElementProperties>
 </WebElementEntity>

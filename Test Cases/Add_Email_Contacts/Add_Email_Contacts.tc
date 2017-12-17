@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>automate adding email contacts from other sites</description>
+   <name>Add_Email_Contacts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbe1e8bf-dc4e-4581-966f-00de1a13223d</testCaseGuid>
+</TestCaseEntity>

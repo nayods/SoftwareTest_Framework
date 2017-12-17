@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Find a Specific email by searching the email folders</description>
+   <name>Find_Specific_email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>000a5c79-f230-4273-ad0a-a0e0ad46b766</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Contacts</name>
+   <tag></tag>
+   <elementGuidId>c760db7d-b081-4ea4-bb15-ee3a485e8834</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[count(. | //*[@class = 'button-inner']) = count(//*[@class = 'button-inner'])][count(. | //*[text() = 'Contacts']) = count(//*[text() = 'Contacts'])][count(. | id(&quot;rcmbtn107&quot;)/span[@class=&quot;button-inner&quot;]) = count(id(&quot;rcmbtn107&quot;)/span[@class=&quot;button-inner&quot;])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-inner</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contacts</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rcmbtn107&quot;)/span[@class=&quot;button-inner&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

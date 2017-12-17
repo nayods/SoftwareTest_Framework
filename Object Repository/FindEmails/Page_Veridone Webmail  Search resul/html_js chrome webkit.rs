@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>content_CwaK9</name>
+   <name>html_js chrome webkit</name>
    <tag></tag>
-   <elementGuidId>46d01cce-e1b9-4a1d-969f-dcfd9f486010</elementGuidId>
+   <elementGuidId>00cfa6e7-56cd-4418-b305-181de5633575</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,20 +11,34 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>content</value>
+      <value>html</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>lang</name>
+      <type>Main</type>
+      <value>en</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>CwaK9</value>
+      <value> js chrome webkit</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;identifierNext&quot;)/content[@class=&quot;CwaK9&quot;]</value>
+      <value>/html[@class=&quot;js chrome webkit&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/FindEmails/Page_Veridone Webmail  Search resul/iframe_messagecontframe</value>
    </webElementProperties>
 </WebElementEntity>

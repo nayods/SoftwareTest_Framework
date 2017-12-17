@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search the junk folder to fine specific email</description>
+   <name>Find_Email_In_Inbox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad414cb0-369d-46a6-a36f-671f8fcbc298</testCaseGuid>
+</TestCaseEntity>

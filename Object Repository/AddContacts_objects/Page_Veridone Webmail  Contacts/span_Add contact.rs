@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>content_CwaK9_1</name>
+   <name>span_Add contact</name>
    <tag></tag>
-   <elementGuidId>208a0bd2-369b-4b5f-aacd-254c8778b369</elementGuidId>
+   <elementGuidId>ed68b17c-4343-4507-92cc-b446973e27e2</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,20 +11,27 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>content</value>
+      <value>span</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>CwaK9</value>
+      <value>inner</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add contact</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;passwordNext&quot;)/content[@class=&quot;CwaK9&quot;]</value>
+      <value>id(&quot;rcmbtn124&quot;)/span[@class=&quot;inner&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
