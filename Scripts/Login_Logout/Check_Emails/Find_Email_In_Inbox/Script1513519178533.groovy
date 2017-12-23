@@ -24,25 +24,18 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://boxmail.veridone.net:8080/roundcube/')
 
-WebUI.setText(findTestObject('AddContacts_objects/Page_Veridone Webmail  Welcome to V (1)/input__user'), 'nayods@boxmail.veridone.net')
+WebUI.setText(findTestObject('FindEmails/Page_Veridone Webmail  Welcome to V/input__user'), 'nayods@boxmail.veridone.net')
 
-WebUI.setText(findTestObject('AddContacts_objects/Page_Veridone Webmail  Welcome to V (1)/input__pass'), 'Fuelsaga01!')
+WebUI.setText(findTestObject('FindEmails/Page_Veridone Webmail  Welcome to V/input__pass'), 'Fuelsaga01!')
 
-WebUI.click(findTestObject('AddContacts_objects/Page_Veridone Webmail  Welcome to V (1)/input_rcmloginsubmit'))
+WebUI.click(findTestObject('FindEmails/Page_Veridone Webmail  Welcome to V/input_rcmloginsubmit'))
 
-WebUI.click(findTestObject('AddContacts_objects/Page_Veridone Webmail  Inbox (1)/span_Contacts'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('FindEmails/Page_Veridone Webmail  Inbox/div_messagelistcontainer'))
 
-WebUI.click(findTestObject('AddContacts_objects/Page_Veridone Webmail  Contacts (1)/span_Add contact'))
+WebUI.setText(findTestObject('FindEmails/Page_Veridone Webmail  Inbox/input__q'), 'Git')
 
-WebUI.setText(findTestObject('AddContacts_objects/Page_Veridone Webmail  Contacts (1)/input__firstname'), 'Humormann')
+WebUI.sendKeys(findTestObject('FindEmails/Page_Veridone Webmail  Inbox/input__q'), Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('AddContacts_objects/Page_Veridone Webmail  Contacts (1)/input__surname'), 'reichenmann')
-
-WebUI.setText(findTestObject('AddContacts_objects/Page_Veridone Webmail  Contacts (1)/input__email'), 'reichenmannH@boxmail.com')
-
-WebUI.click(findTestObject('AddContacts_objects/Page_Veridone Webmail  Contacts (1)/input_rcmbtn103'))
-
-WebUI.click(findTestObject('AddContacts_objects/Page_Veridone Webmail  Contacts (1)/a_Logout'))
+WebUI.delay(25)
 
 WebUI.closeBrowser()
-

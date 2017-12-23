@@ -18,4 +18,43 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://boxmail.veridone.net:8080/roundcube/')
+
+WebUI.setText(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Welcome to V/input__user'), 'admin@boxmail.veridone.net')
+
+WebUI.setText(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Welcome to V/input__pass'), 'Fuelsaga01!')
+
+WebUI.click(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Welcome to V/input_rcmloginsubmit'))
+
+WebUI.click(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Inbox/a_Compose'))
+
+WebUI.setText(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Compose/textarea__to'), 'nelsonayod@yahoo.co.uk')
+
+WebUI.setText(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Compose/input__subject'), 'testing Test automation')
+
+WebUI.setText(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Compose/textarea__message'), 'Testing')
+
+WebUI.click(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Compose/a_Send'))
+
+WebUI.setText(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Compose/input_1'), 'Fuelsaga01!')
+
+WebUI.click(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Compose/button_Save'))
+
+WebUI.click(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Compose/button_Cancel'))
+
+WebUI.click(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Compose/a_Encryption'))
+
+WebUI.click(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Compose/div_messagetoolbar'))
+
+WebUI.click(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Compose/a_Responses'))
+
+WebUI.click(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Compose/a_Send'))
+
+WebUI.click(findTestObject('Sendmail_Objects/Page_Veridone Webmail  Inbox/a_Logout'))
+
+WebUI.closeBrowser()
 

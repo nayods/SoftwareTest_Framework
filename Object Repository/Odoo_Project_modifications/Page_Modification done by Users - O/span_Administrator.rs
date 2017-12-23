@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Administrator</name>
+   <tag></tag>
+   <elementGuidId>97e4b90e-fce7-4b21-8121-01a6a5c18bc7</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oe_topbar_name</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Administrator</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oe_main_menu_navbar&quot;)/div[@class=&quot;navbar-collapse collapse&quot;]/ul[@class=&quot;nav navbar-nav navbar-right oe_user_menu_placeholder&quot;]/li[@class=&quot;o_user_menu&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;oe_topbar_name&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

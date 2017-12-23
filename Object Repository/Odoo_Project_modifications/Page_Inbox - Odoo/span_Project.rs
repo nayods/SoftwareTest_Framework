@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Project</name>
+   <tag></tag>
+   <elementGuidId>3c5fd9db-57aa-4ca2-b686-3701ccb3444c</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oe_menu_text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Project
+            </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oe_main_menu_navbar&quot;)/div[@class=&quot;navbar-collapse collapse&quot;]/ul[@class=&quot;nav navbar-nav navbar-left oe_application_menu_placeholder&quot;]/li[7]/a[@class=&quot;oe_menu_toggler&quot;]/span[@class=&quot;oe_menu_text&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

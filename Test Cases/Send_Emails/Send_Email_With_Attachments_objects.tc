@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send email and attach another email to the email</description>
+   <name>Send_Email_With_Attachments_objects</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5c38e71-309f-4eea-858d-f9af29e4b2db</testCaseGuid>
+</TestCaseEntity>

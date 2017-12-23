@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create</name>
+   <tag></tag>
+   <elementGuidId>acc55551-b21f-4a3a-b72b-d50093ce8be0</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accesskey</name>
+      <type>Main</type>
+      <value>c</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-sm o_form_button_create</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Create
+        </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client o_tooltip_parent&quot;]/div[@class=&quot;o_main&quot;]/div[@class=&quot;o_main_content&quot;]/div[@class=&quot;o_control_panel&quot;]/div[@class=&quot;o_cp_left&quot;]/div[@class=&quot;o_cp_buttons&quot;]/div[1]/div[@class=&quot;o_form_buttons_view&quot;]/button[@class=&quot;btn btn-default btn-sm o_form_button_create&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

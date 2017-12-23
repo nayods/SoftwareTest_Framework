@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>LoginTC</name>
+   <name>AddEmail_contactsTC</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2017-12-23T15:48:42</lastRun>
+   <lastRun>2017-12-23T15:48:41</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <testSuiteGuid>c1b240c6-3fdd-4fac-90c5-f4f5206163cd</testSuiteGuid>
+   <testSuiteGuid>ca686870-8f9a-45af-9a0f-21376775005f</testSuiteGuid>
    <testCaseLink>
-      <guid>34733df7-9fc1-4e0d-bfc3-9848a6fb0fae</guid>
+      <guid>917dbb85-2f08-4f27-a6ab-b21618063da7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login_Logout/Login</testCaseId>
+      <testCaseId>Test Cases/Add_Email_Contacts/Add_Email_Contacts</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
